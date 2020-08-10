@@ -12,12 +12,7 @@ h1 {
   height: 150px;
   width: 150px;
   object-fit: cover;
-  background: -webkit-linear-gradient(
-    -225deg,
-    #473b7b 0%,
-    #3584a7 51%,
-    #30d2be 100%
-  );
+  background: -webkit-linear-gradient( -225deg, #473b7b 0%, #3584a7 51%, #30d2be 100%);
 }
 
 .myIcon {
@@ -31,12 +26,7 @@ h1 {
 }
 
 .resume {
-  background: -webkit-linear-gradient(
-    -225deg,
-    #473b7b 0%,
-    #3584a7 51%,
-    #30d2be 100%
-  );
+  background: -webkit-linear-gradient( -225deg, #473b7b 0%, #3584a7 51%, #30d2be 100%);
 }
 
 .my-card {
